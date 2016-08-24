@@ -4,3 +4,6 @@ body {
 #header {
   margin: 0 auto;
 }
+#footer {
+  background: red;
+}
